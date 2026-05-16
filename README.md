@@ -14,10 +14,19 @@ The project focuses on geodynamic simulations of oceanic subduction and its inte
 - MATLAB for additional analysis
 - HPC/Slurm workflows for running large simulations
 
+## Example Results
+
+### Small-Scale Convection Model (Velocity Field)
+
+![Velocity Field](figures/3D_simple_subduction_isoviscous_1e20PaS_drip_zone_1e18PaS_4Myr_velocity_vectors.jpeg)
+
+Velocity field showing the development of small-scale convection (SSC) beneath the lithosphere in a weakened zone (1e18 Pa·s) within an isoviscous mantle (1e20 Pa·s). The flow pattern highlights interaction between subduction-driven poloidal flow and convective instabilities.
+
 ## Repository Structure
 
 ```text
 input-files/        ASPECT parameter files
 postprocessing/     Python or MATLAB scripts
 figures/            Example plots and visualizations
-notes/              Short documentation or model notes
+notes/              Short documentation and model notes
+```
