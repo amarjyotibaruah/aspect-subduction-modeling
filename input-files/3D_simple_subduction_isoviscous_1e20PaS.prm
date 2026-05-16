@@ -192,7 +192,7 @@ subsection Material model
     set Reference temperature       = 273
     set Viscosity averaging scheme  = geometric
     #Materials                   background,       OC,       OML,         UC,        LC,       CML,     CRUC,     CRLC,    CMLC,    drip_zone
-    set Viscosities                 = 1.e20,    1.e19,     1.e22,      1.e23,     1.e24,      1.e20,    1.e23,   1.e24,    1.e24,   1.e18
+    set Viscosities                 = 1.e20,    1.e19,     1.e22,      1.e23,     1.e24,      1.e20,    1.e23,   1.e24,    1.e24,   1.e20
     set Densities                   = 3250,     3000,      3250,       2899,       3000,      3250,     2899,    3000,     3225,    3250
     set Thermal conductivities      = 2.5
     set Thermal expansivities       = 3.0e-5
