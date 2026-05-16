@@ -22,6 +22,12 @@ The project focuses on geodynamic simulations of oceanic subduction and its inte
 
 Velocity field showing the development of small-scale convection (SSC) beneath the lithosphere in a weakened zone (1e18 Pa·s) within an isoviscous mantle (1e20 Pa·s). The flow pattern highlights interaction between subduction-driven poloidal flow and convective instabilities.
 
+### Small-Scale Convection Model (Temperature Field)
+
+![Temperature Field](figures/3D_simple_subduction_isoviscous_1e20PaS_drip_zone_1e18PaS_4Myr_temperature.jpeg)
+
+Temperature field showing the slab thermal structure and localized mantle instability region at 4 Myr. This complements the velocity visualization by showing where the thermal and rheological structure supports small-scale convection.
+
 ## Repository Structure
 
 ```text
