@@ -29,6 +29,17 @@ This model builds on the 3D slab-edge toroidal flow setup by adding a lower-visc
 **Objective:**
 To test how localized weakening along the dipping slab/interface region affects slab-edge flow, coupling, and mantle circulation.
 
+---
+
+## 3D_simple_subduction_isoviscous_1e20PaS.prm
+
+Reference 3D subduction model without a slab edge. The model represents a simple subduction setup with an isoviscous mantle viscosity of 1e20 Pa·s.
+
+**Objective:**
+Provide a baseline model for comparison with slab-edge and toroidal-flow simulations.
+
+---
+
 ## Key Parameters Across Models
 
 - Geometry: 3D Cartesian domain
