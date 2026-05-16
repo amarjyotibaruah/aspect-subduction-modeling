@@ -28,6 +28,12 @@ Velocity field showing the development of small-scale convection (SSC) beneath t
 
 Temperature field showing the slab thermal structure and localized mantle instability region at 4 Myr. This complements the velocity visualization by showing where the thermal and rheological structure supports small-scale convection.
 
+### Small-Scale Convection Evolution (Animation)
+
+[![SSC Evolution](figures/3D_simple_subduction_isoviscous_1e20PaS_drip_zone_1e18PaS_4Myr_temperature.jpeg)](figures/ssc_evolution.mp4)
+
+Click to view animation of small-scale convection development over time.
+
 ## Repository Structure
 
 ```text
