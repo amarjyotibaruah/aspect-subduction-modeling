@@ -56,6 +56,16 @@ Velocity field at 8 Myr showing toroidal mantle flow around the slab edge. The l
 
 Temperature field at 8 Myr illustrating the thermal structure of the subducting slab and surrounding mantle in a finite slab geometry. The cold, high-viscosity slab contrasts with the warmer ambient mantle, clearly outlining slab morphology and its lateral extent. The temperature distribution highlights how slab edges introduce thermal gradients that can influence mantle flow patterns and promote three-dimensional circulation, complementing the toroidal flow observed in the velocity field.
 
+## Summary
+
+This repository demonstrates the design and analysis of geodynamic models to isolate and compare key mantle flow mechanisms, including poloidal flow, small-scale convection (SSC), and slab-edge toroidal circulation.
+
+The models are constructed to explore how variations in geometry and rheology influence mantle dynamics, with a focus on developing physical intuition and quantitative understanding of subsurface flow processes.
+
+## Note
+
+Detailed model configurations and extended simulation datasets are part of ongoing research work and are not fully included here. Selected examples are provided to illustrate modelling approach, analysis, and interpretation.
+
 
 
 ## Repository Structure
