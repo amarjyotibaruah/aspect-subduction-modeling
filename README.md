@@ -64,7 +64,7 @@ The models are constructed to explore how variations in geometry and rheology in
 
 ## Note
 
-Detailed model configurations and extended simulation datasets are part of ongoing research work and are not fully included here. Selected examples are provided to illustrate modelling approach, analysis, and interpretation.
+Detailed model configurations and extended simulation datasets are part of ongoing research work and are not fully included here. Selected examples are provided to illustrate modelling approach, analysis, and interpretation. Additional materials can be shared upon request for academic or professional purposes.
 
 
 
