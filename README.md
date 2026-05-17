@@ -1,6 +1,6 @@
 # ASPECT Subduction Modeling
 
-This repository contains numerical modelling workflows for studying subduction dynamics, mantle flow, lithosphere evolution, thermal structure, and rheological structure using ASPECT.
+This repository contains numerical modelling workflows for studying subduction dynamics, mantle flow, lithosphere evolution, thermal and rheological structure using ASPECT.
 
 ## Project Overview
 
