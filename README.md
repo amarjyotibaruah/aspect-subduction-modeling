@@ -75,3 +75,7 @@ postprocessing/     Python or MATLAB scripts
 figures/            Example plots and visualizations
 notes/              Short documentation and model notes
 ```
+## Additional Documentation
+
+- See [`notes/`](notes/) for detailed model descriptions and scientific context  
+- See [`postprocessing/`](postprocessing/) for Python and MATLAB workflows used to analyze model outputs
