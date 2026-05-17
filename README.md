@@ -16,7 +16,13 @@ The project focuses on geodynamic simulations of oceanic plate subducting undern
 
 ## Example Results
 
-### Small-Scale Convection Model (Velocity Field)
+### Simple Subduction Model with Poloidal Flow and Edge-Driven_Flow (Velocity Field)
+
+![Baseline Velocity Field](figures/3D_simple_subduction_isoviscous_1e20PaS_velocity_field.jpeg)
+
+Velocity field for the 3D simple subduction model with an isoviscous mantle viscosity of 1e20 Pa·s. This model provides the reference poloidal flow and edge-driven-flow pattern before adding localized low viscosity back-arc mantle.
+
+### Simple Subduction Model with Small-Scale Convection Flow (Velocity Field)
 
 ![Velocity Field](figures/3D_simple_subduction_isoviscous_1e20PaS_drip_zone_1e18PaS_4Myr_velocity_vectors.jpeg)
 
