@@ -27,7 +27,7 @@ poloidal flow, small-scale convection, and toroidal circulation.
 
 ## Example Results
 
-### Simple Subduction Model with Poloidal Flow and Edge-Driven_Flow (Velocity Field, 3 Myr)
+### Simple Subduction Model with Poloidal Flow and Edge-Driven Flow (Velocity Field, 3 Myr)
 
 ![Baseline Velocity Field](figures/3D_simple_subduction_isoviscous_1e20PaS_velocity_field.jpeg)
 
