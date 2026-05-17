@@ -71,7 +71,6 @@ Detailed model configurations and extended simulation datasets are part of ongoi
 ## Repository Structure
 
 ```text
-input-files/        ASPECT parameter files
 postprocessing/     Python or MATLAB scripts
 figures/            Example plots and visualizations
 notes/              Short documentation and model notes
