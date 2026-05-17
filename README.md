@@ -35,7 +35,7 @@ Velocity field at 8 Myr showing toroidal mantle flow around the slab edge. The l
 
 ### Slab-Edge Toroidal Flow Model (Velocity Field, 8 Myr)
 
-![Toroidal Flow](figures/3D_slab_edge_toroidal_flow_isoviscous_1e20PaS_velocity_field.jpeg)
+![Toroidal Flow](figures/3D_slab_edge_toroidal_flow_isoviscous_1e20PaS_temperature_field.jpeg)
 
 Bottom-view velocity field at 8 Myr showing toroidal mantle flow around the slab edge. The lateral circulation highlights 3D flow induced by finite slab geometry.
 
