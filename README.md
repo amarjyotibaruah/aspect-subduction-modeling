@@ -30,9 +30,7 @@ Temperature field showing the slab thermal structure and localized mantle instab
 
 ### Slab-Edge Toroidal Flow Model (Bottom View Velocity Field, 8 Myr)
 
-![Slab-Edge Toroidal Flow](figures/3D_slab_edge_toroidal_flow_isoviscous_1e20PaS_velocity_vectors.jpeg)
 
-Bottom-view velocity field at 8 Myr showing toroidal mantle flow around the slab edge. The lateral flow pattern highlights how finite slab geometry can generate 3D mantle circulation around the edge of the subducting plate.
 
 
 ## Repository Structure
