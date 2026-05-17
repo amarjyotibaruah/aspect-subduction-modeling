@@ -4,7 +4,7 @@ This repository contains numerical modelling workflows for studying subduction d
 
 ## Project Overview
 
-The project focuses on geodynamic simulations of oceanic subduction and its interaction with overriding continental lithosphere. The models are designed to investigate how slab geometry, mantle viscosity, thermal structure, and lithospheric rheology influence subduction evolution and mantle flow patterns.
+The project focuses on geodynamic simulations of oceanic plate subducting underneath an overriding continental plate with a thick cratonic root towards the continental side in place. The models are designed to investigate how slab geometry, mantle viscosity, thermal structure, and lithospheric rheology influence subduction evolution and mantle flow patterns.
 
 ## Tools and Methods
 
