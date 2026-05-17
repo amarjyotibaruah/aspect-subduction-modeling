@@ -37,7 +37,7 @@ Velocity field at 8 Myr showing toroidal mantle flow around the slab edge. The l
 
 ![Toroidal Flow](figures/3D_slab_edge_toroidal_flow_isoviscous_1e20PaS_temperature_field.jpeg)
 
-Bottom-view velocity field at 8 Myr showing toroidal mantle flow around the slab edge. The lateral circulation highlights 3D flow induced by finite slab geometry.
+Temperature field at 8 Myr illustrating the thermal structure of the subducting slab and surrounding mantle in a finite slab geometry. The cold, high-viscosity slab contrasts with the warmer ambient mantle, clearly outlining slab morphology and its lateral extent. The temperature distribution highlights how slab edges introduce thermal gradients that can influence mantle flow patterns and promote three-dimensional circulation, complementing the toroidal flow observed in the velocity field.
 
 
 
