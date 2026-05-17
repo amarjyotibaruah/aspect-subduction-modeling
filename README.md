@@ -6,6 +6,17 @@ This repository contains numerical modelling workflows for studying subduction d
 
 The project focuses on geodynamic simulations of oceanic plate subducting underneath an overriding continental plate with a thick cratonic root towards the continental side in place. The models are designed to investigate how slab geometry, mantle viscosity, thermal structure, and lithospheric rheology influence subduction evolution and mantle flow patterns.
 
+## Scientific Highlights
+
+This repository investigates mantle flow dynamics through progressively complex geodynamic models:
+
+- A baseline subduction model establishes reference poloidal flow
+- A weak-zone model introduces small-scale convection (SSC)
+- A finite slab model generates toroidal flow around slab edges
+
+Together, these models isolate and compare key mantle flow mechanisms:
+poloidal flow, small-scale convection, and toroidal circulation.
+
 ## Tools and Methods
 
 - ASPECT for numerical geodynamic modelling
