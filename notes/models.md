@@ -4,7 +4,7 @@ This document provides an overview of the geodynamic models developed to investi
 
 ---
 
-## 1. Baseline Simple Subduction Model
+## 1. Simple Subduction Model
 
 A 3D subduction model representing an oceanic plate subducting beneath a continental lithosphere with a thick cratonic root. The mantle is treated as isoviscous with a viscosity of 1e20 Pa·s.
 
