@@ -23,7 +23,7 @@ To establish the reference poloidal flow pattern and thermal structure in a simp
 This model extends the baseline configuration by introducing a localized low-viscosity zone (1e18 Pa·s) beneath the lithosphere within an otherwise isoviscous mantle.
 
 **Objective:**
-To investigate the initiation and evolution of small-scale convection (SSC) and its interaction with subduction-driven flow.
+To investigate the initiation and evolution of small-scale convection (SSC) and its interaction with subduction-driven Poloidal flow and Edge-Driven-Flow.
 
 **Key Processes Studied:**
 - Onset of mantle instabilities beneath the lithosphere
@@ -51,3 +51,4 @@ To analyze the development of toroidal mantle flow induced by slab-edge geometry
 - All models are implemented using ASPECT.
 - Figures shown in the repository represent selected outputs from these models.
 - Detailed model configurations and full parameter files are not included as they are part of ongoing research work.
+- Additional materials can be shared upon request for academic or professional purposes.
